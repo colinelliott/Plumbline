@@ -1,4 +1,4 @@
 Plumbline
 =========
 
-this is the Plumbline website
+This is the Plumbline website. It will reside at [plumbline.co.za](plumbline.co.za)
